@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(160, 160, 160);
+}
+.big-blueheader {
+    width: 850px;
+    height: 500px;
+    background-color: rgb(68, 68, 235);
+    margin: 0px auto;
+
+
+}
+
+button {
+    position: relative;
+    left: 575px;
+    top: 450px;
+    background-color: white;
+    border: none;
+    font-size: 14px;
+}
+
+.navbar {
+    width: 850px;
+    height: 65px;
+    background-color: white;
+    margin: 0px auto;
+
+}
+
+.profile-image {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color:rgb(68, 68, 235) ;
+    position: relative;
+    top: -70px;
+    left: 15px;
+    border-radius: 1.75%;
+}
+li {
+    display: inline;
+    position: relative;
+    top: -90px;
+    left: 100px;
+    padding: 10px;
+    font-size: larger;
+    
+}
+
+.list {
+    border-left: 1px solid rgb(173, 173, 173);
+}
+main {
+    
+    height: 1000px;
+    width: 850px;
+    margin: 0 auto;
+    margin-top: 10px;
+    
+}
+.box1 {
+    width: 328px;
+    height: 1000px;
+  
+    float: left;
+}
+.box2 {
+    width: 512px;
+    height: 1000px;
+    
+    float: right;
+
+}
+.left-box {
+    width: 328px;
+    background-color: white;
+    border-radius: 1.75%;
+    padding-top: 8px;
+    padding-bottom: 1px;
+}
+
+.left-box h2 {
+    border-top: 1.5px solid lightgray;
+    
+}
+
+.left-box h3 {
+    border-top: 1.5px solid lightgray;
+}
+.right-box {
+    width: 512px;
+    height: 300px;
+    background-color: white;
+    padding-top: 8px;
+    border-radius: 1.75%;
+    
+}
+.poster {
+    position: relative;
+    left: 20px;
+}
+
+
